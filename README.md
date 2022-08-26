@@ -1,2 +1,2 @@
-# SITE-JUSTIN-BIEBER
-Site que simula uma venda de ingressos para um show do Justin Bieber, que foi desenvolvido durante nossas aulas de HTML e CSS.
+# SITE-VENDA-DE-INGRESSOS
+Representação de um site de venda de ingressos para um show, desenvolvida durante nossas aulas de HTML e CSS.
